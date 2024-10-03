@@ -1,6 +1,4 @@
-# Flutter_ui_assignment
-
-Session 2 Flutter Layout Assignment
+# Session 2 Flutter Layout Assignment
 
 ![flutterlayoutassignment](https://github.com/user-attachments/assets/a0f51322-bd81-4c77-90c6-08b2a2013812)
 
